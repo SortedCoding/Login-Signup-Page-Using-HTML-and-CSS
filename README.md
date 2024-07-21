@@ -8,7 +8,7 @@ calculator
 ![screenshot](Screenshot.png)
 
 # Tutorial is available on youtube channel 
-click on the link to see :- ([Open in Youtube]())
+click on the link to see :- ([Open in Youtube](https://youtu.be/ElzR7EFKgxU))
 
 # Features
 
